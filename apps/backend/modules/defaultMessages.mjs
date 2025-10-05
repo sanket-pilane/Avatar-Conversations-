@@ -54,8 +54,8 @@ async function sendDefaultMessages({ userMessage }) {
 const defaultResponse = {
   messages: [
     {
-      // text: "I'm sorry, there seems to be an error with my brain, or I didn't understand. Could you please repeat your question?",
-      text: "Srushit Shinde is Sanket's Wiffyy",
+      text: "I'm sorry, there seems to be an error with my brain, or I didn't understand. Could you please repeat your question?",
+      
       facialExpression: "sad",
       animation: "Idle",
     },
